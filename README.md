@@ -16,3 +16,4 @@ I used the Chrome driver, you can download it here. You can also download Edge, 
 Fork and clone/download the repository and change the configuration file with:
 The driver path to your downloaded webdriver.
 Run python main.py.
+https://github.com/medro25/Linkedin-easy-apply/assets/58664810/bd99d174-8249-430a-b8c5-8ea6c8323543
